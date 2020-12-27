@@ -1,0 +1,22 @@
+body {
+    background-color: #f1f1f1;
+    font-family: cursive;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dashed;
+    border-color: grey;
+    border-width: 10px;
+    width: 8%;
+}
+
+.sherlock:hover{
+    background-color: rgb(156, 203, 224);
+}
+.html:hover{
+    background-color: rgb(156, 203, 224);
+}
+a:hover{
+    background-color:rgb(156, 203, 224) ;
+}
