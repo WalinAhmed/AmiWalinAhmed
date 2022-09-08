@@ -1,6 +1,6 @@
 body {
     background-color: #f1f1f1;
-    font-family: cursive;
+    font-family: sans-serif;
 }
 
 hr {
@@ -11,12 +11,14 @@ hr {
     width: 8%;
 }
 
-.sherlock:hover{
+.sherlock:hover {
     background-color: rgb(156, 203, 224);
 }
-.html:hover{
+
+.html:hover {
     background-color: rgb(156, 203, 224);
 }
-a:hover{
-    background-color:rgb(156, 203, 224) ;
+
+a:hover {
+    background-color: rgb(156, 203, 224);
 }
